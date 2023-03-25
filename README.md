@@ -1,6 +1,10 @@
 # max3100-485
 MAX 3100 driver class for Arduino,  geared towards usage in RS-485 Modbus  applications
 
+# Your feedback matters
+
+I provide this code to you in hope you'll find it useful without seeking any profit or other benefits. So if you find it useful please drop a comment or hit the star button above.
+
 # Implementation notes
 
 You can by all means use the code to control the UART in an implementation that has nothing to do with RS-485. My implementation was driven by some practical issues I encountered when implementing RS-485 for Modbus, below are share these with you.

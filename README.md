@@ -1,5 +1,7 @@
 # max3100-485
-MAX 3100 driver class for Arduino,  geared towards usage in RS-485 Modbus  applications
+MAX 3100 driver class for Arduino,  with  RS-485 Modbus application in mind.
+New here? - Check my miniModbus also, it may come handy. 
+
 
 # Your feedback matters
 
